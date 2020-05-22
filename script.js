@@ -23,8 +23,12 @@ let jokesArray =[
 
 function randomJoke(){
   
+  /*Challenge 2: display a random joke when the user clicks on the card.
+  /* traverse the array! use the random functions */
   
   let joke = ""
+  
+  /* alert("random!") */
   
   return joke
 }
