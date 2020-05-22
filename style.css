@@ -12,4 +12,13 @@ h1 {
   color: #373fff;
 }
 
+#challenge1{
+  display:inline-block;
+  vertical-align:middle;
+  width:100px;
+  height:100px;
+  background:#FFFF00;
+  margin:20px;
+}
+
 
