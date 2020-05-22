@@ -1,5 +1,9 @@
-/* If you're feeling fancy you can add interactivity 
-    to your site with Javascript */
+/* this is your playground */
 
-// prints "hi" in the browser's dev tools console
-console.log("hi");
+let jokesArray =[
+  
+   Why aren’t Koalas actual bears? They don’t meet the koalifications.
+  
+  
+  
+]
