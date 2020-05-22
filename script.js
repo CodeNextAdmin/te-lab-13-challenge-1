@@ -23,5 +23,8 @@ let jokesArray =[
 
 function randomJoke(){
   
+  
+  let joke = ""
+  
   return joke
 }
