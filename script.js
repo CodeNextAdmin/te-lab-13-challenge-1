@@ -1,5 +1,7 @@
 /*************************** Part 1 ************************/
 
+/*************************** Part 2 ************************/
+
 let jokesArray = [
   "Q. Why aren’t Koalas actual bears? A. They don’t meet the koalifications.",
   "Q. What happens to a frog’s car when it breaks down? A. It gets toad away.",
@@ -31,7 +33,7 @@ function randomJoke() {
   return joke;
 }
 
-/*************************** Part 2 ************************/
+/*************************** Part 3 ************************/
 
 let pics = [
   "https://cdn.glitch.com/6f1555ee-2e0c-464b-8c54-9d1c5c073672%2Fclouds1.jpg?v=1590168390533",
@@ -42,9 +44,7 @@ let pics = [
   "https://cdn.glitch.com/6f1555ee-2e0c-464b-8c54-9d1c5c073672%2Fclouds6.jpg?v=1590168462649"
 ];
 
-
-
-/*************************** Part 3 ************************/
+ 
 
 /*write a function below that sets the NEXT pic, when it reaches the end, it loads the 0 index again. */
 
